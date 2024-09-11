@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "value": "Tomar 3L de água por dia",
+    "checked": false
+  },
+  {
+    "value": "Correr 5km por semana no mínimo",
+    "checked": false
+  },
+  {
+    "value": "estudar um idioma aos finais de semana",
+    "checked": false
+  }
+]
