@@ -1,3 +1,13 @@
+## Peças de uma linguagem
+
+Comentários
+Declaração de variáveis (const, let)
+Operadores (atribuição, concatenação, matemáticos, lógicos)
+Tipos de dados (string, number, boolean)
+Estrutura de dados (functions, object, array)
+Controle de fluxo (if/else)
+Estrutura de repetição (for/while)
+
 ## tipos de dados:
 
 Strings(texto): "" '' ``
@@ -6,8 +16,9 @@ Functions
 
 # Operadores
 
-Operadores deatribuição de valor
-Operador de contatenação
+Operadores de atribuição de valor =
+Operador de contatenação +
+Operadores de comparação: == != <= < > >=
 
 ## Estrutura de dados:
 
@@ -33,6 +44,7 @@ While
 # Condicionais
 
 switch
+if/else
 
 ## Módulos em Node.js:
 
