@@ -1,7 +1,7 @@
-criar metas
-listar metas
+criar metas OK
+listar metas OK
     - metas realizadas
     - metas abertas
-marcar/desmarcar metas como concluídas
-remover metas
-Sistemas de mensagens
+marcar/desmarcar metas como concluídas OK
+remover metas OK
+Sistemas de mensagens OK 
